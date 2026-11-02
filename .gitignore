@@ -1,0 +1,30 @@
+# Pastas geradas pelo jogo
+saves/
+logs/
+crash-reports/
+screenshots/
+backups/
+downloads/
+local/
+
+# Arquivos do KubeJS gerados automaticamente
+kubejs/exported/
+kubejs/probe/
+kubejs/data/
+kubejs/assets/
+
+# Mods e configs do jogo (não são parte deste projeto)
+mods/
+config/
+defaultconfigs/
+
+# Arquivos de editor e sistema
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Credenciais e segredos
+.env
+*.key
