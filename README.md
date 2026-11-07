@@ -61,8 +61,33 @@ kubejs/
 
 ## 📸 Demonstração
 
-Prints do jogo com as receitas funcionando (Mesa Vibratória e Crushing do Create) serão adicionados em breve. 📷
+Capturas das receitas carregadas no jogo (no visualizador de receitas), mostrando que os scripts funcionam.
 
+### Mesa Vibratória
+
+Blocos comuns viram minérios, com chance de drop para cada item.
+
+<p>
+  <img src="imagens/mesa-vibratoria-01.png" alt="Mesa Vibratória, receita 1" width="300">
+  <img src="imagens/mesa-vibratoria-02.png" alt="Mesa Vibratória, receita 2" width="300">
+  <img src="imagens/mesa-vibratoria-03.png" alt="Mesa Vibratória, receita 3" width="300">
+  <img src="imagens/mesa-vibratoria-04.png" alt="Mesa Vibratória, receita 4" width="300">
+  <img src="imagens/mesa-vibratoria-05.png" alt="Mesa Vibratória, receita 5" width="300">
+  <img src="imagens/mesa-vibratoria-06.png" alt="Mesa Vibratória, receita 6" width="300">
+</p>
+
+### Crushing do Create
+
+Blocos comprimidos rendem quantidades maiores de minérios a cada nível.
+
+<p>
+  <img src="imagens/crushing-01.png" alt="Crushing do Create, receita 1" width="300">
+  <img src="imagens/crushing-02.png" alt="Crushing do Create, receita 2" width="300">
+  <img src="imagens/crushing-03.png" alt="Crushing do Create, receita 3" width="300">
+  <img src="imagens/crushing-04.png" alt="Crushing do Create, receita 4" width="300">
+  <img src="imagens/crushing-05.png" alt="Crushing do Create, receita 5" width="300">
+  <img src="imagens/crushing-06.png" alt="Crushing do Create, receita 6" width="300">
+</p>
 ---
 
 ## 📜 Licença
